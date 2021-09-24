@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
     val submit = findViewById<Button>(R.id.buttonSubmit)
 
     var CITY: String = "surrey,ca"
-    val API: String = "c7e032e20b03dea0578c86550f8425fa"
+   
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
